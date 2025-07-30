@@ -9,7 +9,7 @@ export const Footer: React.FC = () => {
       className="text-center mt-8"
     >
       <p className="text-gray-400">
-        Developed by SY TEAM at Borg Al Arab Technological University
+        Developed by Yussef Ahmed at Borg Al Arab Technological University
       </p>
     </motion.div>
   );
